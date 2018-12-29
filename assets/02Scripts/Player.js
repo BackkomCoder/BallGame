@@ -1,25 +1,15 @@
+var GameMgr = require("GameMgr");
 cc.Class({
-    extends: cc.Component,
+    extends: cc.Component,  
 
     properties: {
         moveSpeed: 10,
         sheetDemage: 1,
-        // foo: {
-        //     // ATTRIBUTES:
-        //     default: null,        // The default value will be used only when the component attaching
-        //                           // to a node for the first time
-        //     type: cc.SpriteFrame, // optional, default is typeof default
-        //     serializable: true,   // optional, default is true
-        // },
-        // bar: {
-        //     get () {
-        //         return this._bar;
-        //     },
-        //     set (value) {
-        //         this._bar = value;
-        //     }
-        // },
-    },
+        gameMgr:{
+            default:null, 
+            type:GameMgr
+        }
+    }, 
 
     // LIFE-CYCLE CALLBACKS:
 
@@ -46,9 +36,9 @@ cc.Class({
     },
 
     update (dt) {
-        if(this.leftMove){
+        if(this.leftMove&&this.node.x>this.gameMgr.properties.leftBorad.x){
             this.node.x-=dt*this.moveSpeed;
-        }else if(this.rightMove){
+        }else if(this.rightMove&&this.node.x<tthis.gameMgr.rightBorad.x){
             this.node.x+=dt*this.moveSpeed;
         }
     },
