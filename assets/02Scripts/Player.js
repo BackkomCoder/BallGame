@@ -36,9 +36,9 @@ cc.Class({
     },
 
     update (dt) {
-        if(this.leftMove&&this.node.x>this.gameMgr.properties.leftBorad.x){
+        if(this.leftMove&&this.node.x>this.gameMgr.GetLeftBorder().x){
             this.node.x-=dt*this.moveSpeed;
-        }else if(this.rightMove&&this.node.x<this.gameMgr.rightBorad.x){
+        }else if(this.rightMove&&this.node.x<this.gameMgr.GetRightBorder().x){
             this.node.x+=dt*this.moveSpeed;
         }
     },

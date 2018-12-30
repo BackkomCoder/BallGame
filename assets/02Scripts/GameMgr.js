@@ -19,6 +19,11 @@ cc.Class({
     start () {
 
     },
-
+    GetLeftBorder(){
+        return this.leftBorder;
+    },
+    GetRightBorder(){
+        return this.rightBorder;
+    }
     // update (dt) {},
 });
