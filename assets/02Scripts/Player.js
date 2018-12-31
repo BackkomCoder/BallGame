@@ -42,37 +42,19 @@ cc.Class({
 
     start() {
         this.gameMgrNode.on(cc.Node.EventType.TOUCH_MOVE,function(event){
-            cc.log(event.getDelta());
             this.moveDir=event.getDelta().x;
-        },this);
-        // cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, function (event) {
-        //     switch (event.keyCode) {
-        //         case cc.macro.KEY.a:
-        //             this.leftMove = true;
-        //         case cc.macro.KEY.d:
-        //             this.rightMove = true;
-        //     }
-        // }, this);
-
-        // cc.systemEvent.on(cc.SystemEvent.EventType.KEY_UP, function (event) {
-        //     switch (event.keyCode) {
-        //         case cc.macro.KEY.a:
-        //             this.leftMove = false;
-        //         case cc.macro.KEY.d:
-        //             this.rightMove = false;
-        //     }
-        // }, this);
+        }.bind(this),this);
         this.gameMgrNode.on(cc.Node.EventType.TOUCH_START,function(event){
             this.bTouch=true;
-        },this);
+        }.bind(this),this);
         this.gameMgrNode.on(cc.Node.EventType.TOUCH_END,function(event){
             this.bTouch=false;
             this.moveDir=0;
-        },this);
+        }.bind(this),this);
         this.gameMgrNode.on(cc.Node.EventType.TOUCH_CANCEL,function(event){
             this.bTouch=false;
             this.moveDir=0;
-        },this);
+        }.bind(this),this);
     },
     
     update (dt) {
@@ -91,10 +73,11 @@ cc.Class({
         }else if(this.moveDir>0&&this.node.x<this.gameMgr.GetRightBorder().x){
             this.node.x+=dt*this.moveSpeed;
         }
-        // if(this.leftMove&&this.node.x>this.gameMgr.GetLeftBorder().x){
-        //     this.node.x-=dt*this.moveSpeed;
-        // }else if(this.rightMove&&this.node.x<this.gameMgr.GetRightBorder().x){
-        //     this.node.x+=dt*this.moveSpeed;
-        // }
+    },
+
+    onBeginContact(contact,selfCollider,otherCollider){
+        if(otherCollider.node.groupIndex===1){
+            this.gameMgr.GameOver();
+        }
     },
 });
