@@ -87,7 +87,6 @@ cc.Class({
     GameOver() {
         this.uiGameOverPanel.active = true;
         this.bGameOver = true;
-        cc.director.pause();
     },
     GetLeftBorder() {
         return this.leftBorder;
@@ -96,7 +95,6 @@ cc.Class({
         return this.rightBorder;
     },
     LoadScene(){
-        cc.director.resume();
         cc.director.loadScene("Start");
     }
 });

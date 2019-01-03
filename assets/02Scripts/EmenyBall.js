@@ -12,12 +12,11 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        lifeCount:0,
         maxLifeCount:10,
         labelCount:{
             type:cc.Label,
             default:null
-        },
+        }
     },
 
     // LIFE-CYCLE CALLBACKS:s
@@ -25,10 +24,8 @@ cc.Class({
     // onLoad () {},
 
     start () {
-        this.currentLifeCount=Math.ceil(Math.random()*this.maxLifeCount);
+        this.currentLifeCount=Math.floor(Math.random()*this.maxLifeCount);
         this.labelCount.string=this.currentLifeCount;
-        this.lifeCount = this.currentLifeCount;
-        this.scoreLabel = cc.find("/Canvas/UI/ScoreLabel");
     },
 
     // update (dt) {},
@@ -37,7 +34,6 @@ cc.Class({
              if(this.currentLifeCount<=1){
                 otherCollider.node.destroy();
                 this.node.destroy();
-                this.scoreLabel.getComponent(cc.Label).string = "Score:" + (this.lifeCount + parseInt(this.scoreLabel.getComponent(cc.Label).string.slice(6)));
              }
              this.currentLifeCount--;
              this.labelCount.string=this.currentLifeCount;

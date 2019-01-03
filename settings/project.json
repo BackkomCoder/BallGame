@@ -44,6 +44,16 @@
   "design-resolution-height": 640,
   "design-resolution-width": 960,
   "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
   "fit-height": true,
   "fit-width": false,
   "group-list": [
@@ -53,12 +63,12 @@
     "Player",
     "Bullet"
   ],
+  "last-module-event-record-time": 1546186834955,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
     "width": 960
   },
   "use-customize-simulator": false,
-  "use-project-simulator-setting": false,
-  "start-scene": "current"
+  "use-project-simulator-setting": false
 }
