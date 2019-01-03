@@ -31,6 +31,11 @@ cc.Class({
     },
     onBeginContact(contact, selfCollider, otherCollider) {
         // cc.log("onBeginContact");
+        cc.log("tag: " + otherCollider.tag);
+        cc.log(typeof (otherCollider.tag));
+        if(otherCollider.tag === 0){
+            selfCollider.node.destroy();
+        }
     },
     onEndContact(contact, selfCollider, otherCollider) {
         // cc.log("onEndContact");

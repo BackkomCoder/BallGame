@@ -1,5 +1,5 @@
 {
-  "ver": "1.1.0",
+  "ver": "1.2.0",
   "uuid": "782ad75c-790e-4b3c-8728-94d1a07547d2",
   "maxWidth": 2048,
   "maxHeight": 2048,
@@ -13,5 +13,6 @@
   "contourBleed": true,
   "paddingBleed": true,
   "filterUnused": false,
+  "platformSettings": {},
   "subMetas": {}
 }
