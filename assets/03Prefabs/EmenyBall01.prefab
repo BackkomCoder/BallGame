@@ -275,11 +275,11 @@
       "__id__": 1
     },
     "_enabled": true,
-    "lifeCount": 0,
-    "maxLifeCount": 10,
     "lifeLabel": {
       "__id__": 3
     },
+    "gameMgr": null,
+    "physicsCircleCollider": null,
     "_id": ""
   },
   {

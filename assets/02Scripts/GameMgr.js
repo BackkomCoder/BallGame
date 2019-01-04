@@ -1,4 +1,5 @@
-var uiMgr=require("UIMgr");
+var uiMgr = require("UIMgr");
+var cameraVibrate = require("CameraVibrate");
 cc.Class({
     extends: cc.Component,
 
@@ -37,9 +38,18 @@ cc.Class({
             type: [cc.Prefab],
         },
         //UIMgr
-        uiMgr:uiMgr,
+        uiMgr: uiMgr,
         //玩家得分
-        playerScore:0,
+        playerScore: 0,
+
+        cameraVibrate: {
+            default: null,
+            type: cameraVibrate,
+        },
+        //敌人最大生命值
+        maxLifeCount:10,
+        //玩家
+        player:cc.Node,
     },
 
 
@@ -63,11 +73,14 @@ cc.Class({
         this.SpawnEmeny(dt);
     },
     //生成敌人
-    SpawnEmeny(dt){
+    SpawnEmeny(dt) {
         this.spawnEmenyTimer += dt;
         if (this.spawnEmenyTimer > this.spwanEmenyTime) {
             var targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
+            
             var emeny = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
+
+            emeny.getComponent("EmenyBall").initEmeny(Math.ceil(Math.random()*this.maxLifeCount));
 
             var targetPosIndex = Math.floor(Math.random() * this.spwanEmenyPosList.length);
             var targetPos = this.spwanEmenyPosList[targetPosIndex];
@@ -79,9 +92,33 @@ cc.Class({
             emeny.parent = this.spwanEmenyParent;
 
             emeny.getComponent(cc.RigidBody).linearVelocity = cc.v2(Math.random() * 300 + 200, 0);
-          
+
             this.spawnEmenyTimer = 0;
         }
+    },
+    GenerateEmeny(emenyPos,lifeCount) {
+        var targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
+        var emeny1 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
+        emeny1.getComponent("EmenyBall").initEmeny(lifeCount);
+
+        emeny1.x = emenyPos.x;
+        emeny1.y = emenyPos.y;
+        emeny1.parent = this.spwanEmenyParent;
+        emeny1.getComponent(cc.PhysicsCircleCollider).restitution=1.2;
+
+
+        emeny1.getComponent(cc.RigidBody).linearVelocity = cc.v2(-(Math.random() * 300 + 200), 0);
+
+        var emeny2 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
+        emeny2.getComponent("EmenyBall").initEmeny(lifeCount);
+
+        emeny2.x = emenyPos.x;
+        emeny2.y = emenyPos.y;
+        emeny2.parent = this.spwanEmenyParent;
+        emeny2.getComponent(cc.PhysicsCircleCollider).restitution=1.2;
+
+        emeny2.getComponent(cc.RigidBody).linearVelocity = cc.v2(Math.random() * 300 + 200, 0);
+
     },
     //游戏结束
     GameOver() {
@@ -90,13 +127,13 @@ cc.Class({
         cc.director.pause();
     },
     //重新加载场景
-    LoadScene(){
+    LoadScene() {
         cc.director.resume();
         cc.director.loadScene("Start");
     },
     //玩家得分
-    AddPlayerScore(addScore){
-        this.playerScore+=addScore;
+    AddPlayerScore(addScore) {
+        this.playerScore += addScore;
         this.uiMgr.SetScore(this.playerScore);
     },
 });
