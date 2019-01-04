@@ -1,26 +1,22 @@
+var uiMgr=require("UIMgr");
 cc.Class({
     extends: cc.Component,
 
     properties: {
+        //左边界
         leftBorder: {
             default: null,
             type: cc.Node
         },
+        //右边界
         rightBorder: {
             default: null,
             type: cc.Node
         },
+        //是否开启物理调试
         is_debug: false,
+        //游戏是否结束
         bGameOver: false,
-        uiGameOverPanel: {
-            default: null,
-            type: cc.Node
-        },
-        //敌人预设
-        emenyBall: {
-            default: null,
-            type: cc.Prefab
-        },
         //生成敌人速率
         spwanEmenyTime: 3,
         //生成敌人计数器
@@ -39,7 +35,11 @@ cc.Class({
         spwanEmenyPrefabList: {
             default: [],
             type: [cc.Prefab],
-        }
+        },
+        //UIMgr
+        uiMgr:uiMgr,
+        //玩家得分
+        playerScore:0,
     },
 
 
@@ -55,12 +55,15 @@ cc.Class({
     },
 
     start() {
-
     },
     update(dt) {
         if (this.bGameOver === true) {
             return;
         }
+        this.SpawnEmeny(dt);
+    },
+    //生成敌人
+    SpawnEmeny(dt){
         this.spawnEmenyTimer += dt;
         if (this.spawnEmenyTimer > this.spwanEmenyTime) {
             var targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
@@ -75,28 +78,25 @@ cc.Class({
             emeny.y = localPos.y;
             emeny.parent = this.spwanEmenyParent;
 
-            cc.log(targetPosIndex);
-           // if (this.targetPosIndex === 0) {
-                emeny.getComponent(cc.RigidBody).linearVelocity = cc.v2(Math.random() * 300 + 200, 0);
-           // } else if (this.targetPosIndex === 1) {
-           //     emeny.getComponent(cc.RigidBody).linearVelocity = -cc.v2(Math.random() * 300 + 200, 0);
-           // }
+            emeny.getComponent(cc.RigidBody).linearVelocity = cc.v2(Math.random() * 300 + 200, 0);
+          
             this.spawnEmenyTimer = 0;
         }
     },
+    //游戏结束
     GameOver() {
-        this.uiGameOverPanel.active = true;
+        this.uiMgr.SetButtonState(true);
         this.bGameOver = true;
         cc.director.pause();
     },
-    GetLeftBorder() {
-        return this.leftBorder;
-    },
-    GetRightBorder() {
-        return this.rightBorder;
-    },
+    //重新加载场景
     LoadScene(){
         cc.director.resume();
         cc.director.loadScene("Start");
-    }
+    },
+    //玩家得分
+    AddPlayerScore(addScore){
+        this.playerScore+=addScore;
+        this.uiMgr.SetScore(this.playerScore);
+    },
 });

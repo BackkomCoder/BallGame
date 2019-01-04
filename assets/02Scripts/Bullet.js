@@ -3,7 +3,9 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
+        //子弹速度
         bulletSpeed: 100,
+        //子弹销毁时间
         destroyTime: 1000
     },
 
@@ -30,12 +32,6 @@ cc.Class({
         // cc.log("onPostSolve");
     },
     onBeginContact(contact, selfCollider, otherCollider) {
-        // cc.log("onBeginContact");
-        cc.log("tag: " + otherCollider.tag);
-        cc.log(typeof (otherCollider.tag));
-        if(otherCollider.tag === 0){
-            selfCollider.node.destroy();
-        }
     },
     onEndContact(contact, selfCollider, otherCollider) {
         // cc.log("onEndContact");
