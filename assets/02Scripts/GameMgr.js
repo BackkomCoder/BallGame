@@ -126,6 +126,7 @@ cc.Class({
         this.uiMgr.SetButtonState(true);
         this.bGameOver = true;
         cc.director.pause();
+        this.player.getComponent("Player").OffTouchEvent();
     },
     //重新加载场景
     LoadScene() {
