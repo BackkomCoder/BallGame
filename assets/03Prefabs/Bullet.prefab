@@ -196,7 +196,6 @@
     },
     "_enabled": true,
     "bulletSpeed": 1500,
-    "destroyTime": 3000,
     "_id": ""
   },
   {
@@ -369,7 +368,6 @@
     },
     "_enabled": true,
     "bulletSpeed": 1500,
-    "destroyTime": 3000,
     "_id": ""
   },
   {
@@ -542,7 +540,6 @@
     },
     "_enabled": true,
     "bulletSpeed": 1500,
-    "destroyTime": 3000,
     "_id": ""
   },
   {
@@ -715,7 +712,6 @@
     },
     "_enabled": true,
     "bulletSpeed": 1500,
-    "destroyTime": 3000,
     "_id": ""
   },
   {
@@ -888,7 +884,6 @@
     },
     "_enabled": true,
     "bulletSpeed": 1500,
-    "destroyTime": 3000,
     "_id": ""
   },
   {

@@ -1,22 +1,19 @@
-var gameMgr = require("GameMgr");
 cc.Class({
     extends: cc.Component,
 
     properties: {
         //敌人生命Label
         lifeLabel: cc.Label,
-        //gameMgr.js
-        gameMgr: gameMgr,
         //physicsCircleCollider
         physicsCircleCollider: {
-            type: cc.PhysicsCircleCollider,
+            type: cc.PhysicsCircleCollider, 
             default: null,
         },
     },
 
 
     onLoad() {
-        this.gameMgr = cc.find("/GameMgr").getComponent("GameMgr");
+        this.allClassQuote=cc.find("/GameMgr/AllClassQuote").getComponent("AllClassQuote");
     },
 
     start() {
@@ -26,12 +23,14 @@ cc.Class({
     // update (dt) {},
     onBeginContact(contact, selfCollider, otherCollider) {
         if (otherCollider.node.groupIndex === 4) {
-            otherCollider.node.destroy();
+            this.allClassQuote.player.bulletPool.put(otherCollider.node);
             if (this.currentLifeCount <= 1) {
-                this.gameMgr.AddPlayerScore(this.lifeCount);
-                this.node.destroy();
+                this.allClassQuote.gameMgr.AddPlayerScore(this.lifeCount);
+               // this.node.destroy();
+                this.allClassQuote.gameMgr.emenyPool.put(this.node);
+
                 if (this.lifeCount >= 2) {
-                    this.gameMgr.GenerateEmeny(this.node.position, parseInt(this.lifeCount / 2));
+                    this.allClassQuote.gameMgr.GenerateEmeny(this.node.position, parseInt(this.lifeCount / 2));
                 }
             }
             this.currentLifeCount--;
@@ -39,12 +38,11 @@ cc.Class({
         }
         if (otherCollider.node.groupIndex === 2) {
             if (contact.colliderA.tag === 0) {
-                this.gameMgr.cameraVibrate.SetVirbateCount(20);
+                this.allClassQuote.cameraVibrate.SetVirbateCount(20);
             }
         }
     },
     initEmeny(lifeCount) {
-
         this.currentLifeCount = lifeCount;
         this.lifeLabel.string = this.currentLifeCount;
         this.lifeCount = this.currentLifeCount;

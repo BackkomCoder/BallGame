@@ -1,5 +1,7 @@
-
-cc.Class({
+var UIMgr = cc.Class({
+    // statics:{
+    //     instance:null
+    // },
     extends: cc.Component,
 
     properties: {
@@ -26,3 +28,5 @@ cc.Class({
 
     // update (dt) {},
 });
+// UIMgr.instance=new UIMgr();
+// module.extends=UIMgr;

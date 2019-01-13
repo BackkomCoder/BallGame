@@ -1,23 +1,16 @@
-
 cc.Class({
     extends: cc.Component,
 
     properties: {
         //子弹速度
         bulletSpeed: 100,
-        //子弹销毁时间
-        destroyTime: 1000
     },
 
-    // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {},
+    onLoad () {
+        this.allClassQuote=cc.find("/GameMgr/AllClassQuote").getComponent("AllClassQuote");
+    },
     start() {
-        setTimeout(function () {
-            if (cc.isValid(this.node)) {
-                this.node.destroy();
-            }
-        }.bind(this), this.destroyTime);
     },
 
     update(dt) {
@@ -25,15 +18,15 @@ cc.Class({
             this.node.y += this.bulletSpeed * dt;
         }
     },
-    onPreSolve(contact, selfCollider, otherCollider) {
-        // cc.log("onPreSolve");
-    },
-    onPostSolve(contact, selfCollider, otherCollider) {
-        // cc.log("onPostSolve");
-    },
+    // onPreSolve(contact, selfCollider, otherCollider) {
+    // },
+    // onPostSolve(contact, selfCollider, otherCollider) {
+    // },
     onBeginContact(contact, selfCollider, otherCollider) {
+        if(otherCollider.node.groupIndex === 2){
+           this.allClassQuote.player.bulletPool.put(this.node);
+        }
     },
-    onEndContact(contact, selfCollider, otherCollider) {
-        // cc.log("onEndContact");
-    }
+    // onEndContact(contact, selfCollider, otherCollider) {
+    // }
 });
