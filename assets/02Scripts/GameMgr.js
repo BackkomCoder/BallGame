@@ -48,7 +48,7 @@ cc.Class({
         
 
         this.emenyPool=new cc.NodePool();
-        let initCount=10;
+        let initCount=30;
         for(let i=0;i<initCount;++i){
             let targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
             let emeny = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
@@ -63,6 +63,7 @@ cc.Class({
             return;
         }
         this.SpawnEmeny(dt);
+        console.log(this.emenyPool.size());
     },
     SpawnEmenyByPool(){
         let emeny=null;
@@ -73,7 +74,7 @@ cc.Class({
         }else{
 
             let targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
-
+            console.log("生成敌人");
             emeny = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
         }
         return emeny;
@@ -104,8 +105,8 @@ cc.Class({
     },
     GenerateEmeny(emenyPos, lifeCount) {
         let targetEmenyIndex = Math.floor(Math.random() * this.spwanEmenyPrefabList.length);
-         let emeny1 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
-        //let emeny1 = this.SpawnEmenyByPool();
+         // let emeny1 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
+        let emeny1 = this.SpawnEmenyByPool();
         emeny1.getComponent("EmenyBall").initEmeny(lifeCount);
 
         emeny1.x = emenyPos.x;
@@ -118,9 +119,9 @@ cc.Class({
 
 
 
-        let emeny2 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
-       //let emeny2 = this.SpawnEmenyByPool(); 
-       emeny2.getComponent("EmenyBall").initEmeny(lifeCount);
+        // let emeny2 = cc.instantiate(this.spwanEmenyPrefabList[targetEmenyIndex]);
+        let emeny2 = this.SpawnEmenyByPool();
+        emeny2.getComponent("EmenyBall").initEmeny(lifeCount);
 
         emeny2.x = emenyPos.x;
         emeny2.y = emenyPos.y;

@@ -26,11 +26,14 @@ cc.Class({
             this.allClassQuote.player.bulletPool.put(otherCollider.node);
             if (this.currentLifeCount <= 1) {
                 this.allClassQuote.gameMgr.AddPlayerScore(this.lifeCount);
-               // this.node.destroy();
+                // this.node.destroy();
                 this.allClassQuote.gameMgr.emenyPool.put(this.node);
 
-                if (this.lifeCount >= 2) {
-                    this.allClassQuote.gameMgr.GenerateEmeny(this.node.position, parseInt(this.lifeCount / 2));
+                if (this.lifeCount >= 20) {
+                    this.probability=Math.random(0,1);
+                    if(this.probability>0.5){
+                        this.allClassQuote.gameMgr.GenerateEmeny(this.node.position, parseInt(this.lifeCount / 2));
+                    }
                 }
             }
             this.currentLifeCount--;
