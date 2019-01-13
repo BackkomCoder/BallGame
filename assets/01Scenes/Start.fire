@@ -2394,7 +2394,7 @@
       "__id__": 2
     },
     "_enabled": true,
-    "bDebugPhysics": true,
+    "bDebugPhysics": false,
     "bDebugCollision": false,
     "_id": "6bT+OaC51Lg72rmzcTCcer"
   }
