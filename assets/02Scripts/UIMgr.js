@@ -19,12 +19,6 @@ var UIMgr = cc.Class({
     SetScore(score){
         this.labScore.string="Score:"+score.toString();
     },
-    onLoad () {
-    },
-
-    start () {
-
-    },
 
     // update (dt) {},
 });

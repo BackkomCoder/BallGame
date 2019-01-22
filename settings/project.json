@@ -44,7 +44,29 @@
   ],
   "design-resolution-height": 640,
   "design-resolution-width": 960,
-  "excluded-modules": [],
+  "excluded-modules": [
+    "LabelOutline",
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "RichText",
+    "MotionStreak",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "EditBox",
+    "VideoPlayer",
+    "WebView",
+    "Audio",
+    "AudioSource",
+    "Animation",
+    "Native NetWork"
+  ],
   "facebook": {
     "appID": "",
     "audience": {
@@ -64,12 +86,13 @@
     "Player",
     "Bullet"
   ],
-  "last-module-event-record-time": 1547356239312,
+  "last-module-event-record-time": 1547992277268,
   "simulator-orientation": false,
   "simulator-resolution": {
     "height": 640,
     "width": 960
   },
+  "start-scene": "current",
   "use-customize-simulator": false,
   "use-project-simulator-setting": false
 }

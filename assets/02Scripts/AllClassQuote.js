@@ -17,14 +17,10 @@ cc.Class({
         player:{
             type:require("Player"), 
             default:null,
-        }
+        },
+        getWXOpenData:{
+            type:require("GetWXOpenData"), 
+            default:null,
+        },
     }),
-
-    // onLoad () {},
-
-    start () {
-
-    },
-
-    // update (dt) {},
 });

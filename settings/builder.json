@@ -37,10 +37,10 @@
   "title": "BallGame",
   "webOrientation": "auto",
   "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
+    "REMOTE_SERVER_ROOT": "https://www.jycreating.cn",
+    "appid": "wx673ed5970c997055",
     "orientation": "portrait",
-    "subContext": ""
+    "subContext": "BallGameWX"
   },
   "xxteaKey": "29567afa-2fde-41",
   "zipCompressJs": true

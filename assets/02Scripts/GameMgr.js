@@ -63,7 +63,7 @@ cc.Class({
             return;
         }
         this.SpawnEmeny(dt);
-        console.log(this.emenyPool.size());
+      //  console.log(this.emenyPool.size());
     },
     SpawnEmenyByPool(){
         let emeny=null;
@@ -131,14 +131,18 @@ cc.Class({
     },
     //游戏结束
     GameOver() {
-        this.allClassQuote.uiMgr.SetButtonState(true);
-        this.bGameOver = true;
-        cc.director.pause();
-        this.player.getComponent("Player").OffTouchEvent();
+        if(this.bGameOver===false){
+            this.allClassQuote.uiMgr.SetButtonState(true);
+            this.allClassQuote.getWXOpenData.PostDataToWX();
+            this.player.getComponent("Player").OffTouchEvent();
+            this.bGameOver = true;
+           // cc.director.pause();
+        }
     },
     //重新加载场景
     LoadScene() {
         cc.director.resume();
+        this.allClassQuote.getWXOpenData.OpenDataContext("HideRankPanel");
         cc.director.loadScene("Start");
     },
     //玩家得分
@@ -146,4 +150,8 @@ cc.Class({
         this.playerScore += addScore;
         this.allClassQuote.uiMgr.SetScore(this.playerScore);
     },
+    //获取玩家得分
+    GetPlayerScore(){
+        return this.playerScore;
+    }
 });
