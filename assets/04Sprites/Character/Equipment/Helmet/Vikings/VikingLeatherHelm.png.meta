@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "aec70279-4a6f-4e01-b1f7-b340caada888",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingLeatherHelm": {
+      "ver": "1.0.3",
+      "uuid": "15cb943c-3cab-4db9-9ac7-bd63795dfbcd",
+      "rawTextureUuid": "aec70279-4a6f-4e01-b1f7-b340caada888",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 96,
+      "trimX": 177,
+      "trimY": 93,
+      "width": 160,
+      "height": 134,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

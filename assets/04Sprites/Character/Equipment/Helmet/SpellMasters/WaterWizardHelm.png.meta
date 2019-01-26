@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "79cb2b1e-02e2-461e-bb82-f9f3992f03d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WaterWizardHelm": {
+      "ver": "1.0.3",
+      "uuid": "9ff98439-c0ec-4405-ad7d-da4bc8f10ca3",
+      "rawTextureUuid": "79cb2b1e-02e2-461e-bb82-f9f3992f03d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 60,
+      "trimX": 168,
+      "trimY": 110,
+      "width": 173,
+      "height": 172,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

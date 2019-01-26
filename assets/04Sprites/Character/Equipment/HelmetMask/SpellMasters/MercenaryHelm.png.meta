@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2a40d058-effc-4405-b32b-f6c7dbae1c2f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MercenaryHelm": {
+      "ver": "1.0.3",
+      "uuid": "e5635f33-cf39-4602-b058-1578dcc4a632",
+      "rawTextureUuid": "2a40d058-effc-4405-b32b-f6c7dbae1c2f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 129,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 254,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

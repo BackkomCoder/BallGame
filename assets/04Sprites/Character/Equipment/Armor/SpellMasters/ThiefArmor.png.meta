@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "187a55ae-e8c5-4054-a272-195e364a84d7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ThiefArmor": {
+      "ver": "1.0.3",
+      "uuid": "d69cb1f5-5410-4b17-99cc-f92c8339b014",
+      "rawTextureUuid": "187a55ae-e8c5-4054-a272-195e364a84d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": -10.5,
+      "trimX": 46,
+      "trimY": 49,
+      "width": 427,
+      "height": 435,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

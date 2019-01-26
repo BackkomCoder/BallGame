@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4f1c2375-482f-457d-9492-0b42088c746b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingLightArmor1": {
+      "ver": "1.0.3",
+      "uuid": "915d4896-bcf4-462a-8bc1-ee223003063a",
+      "rawTextureUuid": "4f1c2375-482f-457d-9492-0b42088c746b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -11,
+      "trimX": 46,
+      "trimY": 50,
+      "width": 425,
+      "height": 434,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

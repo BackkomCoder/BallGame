@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ecf8c930-7e53-499a-8b4b-79e4ba2ab4ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WarlockHood": {
+      "ver": "1.0.3",
+      "uuid": "14ef03d6-6336-4b0d-9495-f78f72d6c3d3",
+      "rawTextureUuid": "ecf8c930-7e53-499a-8b4b-79e4ba2ab4ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": 63.5,
+      "trimX": 182,
+      "trimY": 104,
+      "width": 156,
+      "height": 177,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

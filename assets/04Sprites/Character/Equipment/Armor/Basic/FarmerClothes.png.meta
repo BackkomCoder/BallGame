@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "da278310-b1d0-4531-a2b7-feeb0ddefce7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FarmerClothes": {
+      "ver": "1.0.3",
+      "uuid": "c8eddc9e-cd85-48ab-b2a1-09f083eb5152",
+      "rawTextureUuid": "da278310-b1d0-4531-a2b7-feeb0ddefce7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 12.5,
+      "offsetY": -12,
+      "trimX": 73,
+      "trimY": 52,
+      "width": 391,
+      "height": 432,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

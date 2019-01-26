@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "639b61c2-20ac-4c9b-95d4-eb024e044fdc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingIronHelm3": {
+      "ver": "1.0.3",
+      "uuid": "98d063b6-bc4c-4c84-92fc-128054da2ef0",
+      "rawTextureUuid": "639b61c2-20ac-4c9b-95d4-eb024e044fdc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 149,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 214,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dc6613e9-aece-4c0c-a425-5bc81cf91b5f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Orly": {
+      "ver": "1.0.3",
+      "uuid": "029f6a2b-3ab6-4c8c-a799-ddab21b02b21",
+      "rawTextureUuid": "dc6613e9-aece-4c0c-a425-5bc81cf91b5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 19.5,
+      "offsetY": 38,
+      "trimX": 109,
+      "trimY": 75,
+      "width": 77,
+      "height": 30,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

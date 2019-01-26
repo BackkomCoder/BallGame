@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "93b288ac-cebd-458a-83c9-b924b50fe40b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FalconLightArmor": {
+      "ver": "1.0.3",
+      "uuid": "042500bf-2d34-49d0-b8b9-98e6f9cd60b1",
+      "rawTextureUuid": "93b288ac-cebd-458a-83c9-b924b50fe40b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13,
+      "offsetY": -8.5,
+      "trimX": 73,
+      "trimY": 45,
+      "width": 392,
+      "height": 439,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

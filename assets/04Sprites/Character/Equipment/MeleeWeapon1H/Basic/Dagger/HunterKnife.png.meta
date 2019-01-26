@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cc2d836a-34b4-4b00-a2db-fe6781549779",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "HunterKnife": {
+      "ver": "1.0.3",
+      "uuid": "86b14493-78b1-4137-94c3-7a247de780d4",
+      "rawTextureUuid": "cc2d836a-34b4-4b00-a2db-fe6781549779",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 43.5,
+      "trimX": 245,
+      "trimY": 147,
+      "width": 25,
+      "height": 131,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

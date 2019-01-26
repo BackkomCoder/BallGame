@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f16c2643-a524-4ec8-ba7b-da0a7715eba3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MilitiamanShortSword": {
+      "ver": "1.0.3",
+      "uuid": "e9074f19-2e0c-4f05-946f-54bbae697b6d",
+      "rawTextureUuid": "f16c2643-a524-4ec8-ba7b-da0a7715eba3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 56,
+      "trimX": 229,
+      "trimY": 119,
+      "width": 54,
+      "height": 162,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

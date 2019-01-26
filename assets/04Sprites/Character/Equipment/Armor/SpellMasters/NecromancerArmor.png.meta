@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8ef7b967-aeb9-4354-9509-3dd47fbd7307",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "NecromancerArmor": {
+      "ver": "1.0.3",
+      "uuid": "aba4a2a4-4946-4eca-987e-564c53c23038",
+      "rawTextureUuid": "8ef7b967-aeb9-4354-9509-3dd47fbd7307",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11,
+      "offsetY": -1.5,
+      "trimX": 7,
+      "trimY": 31,
+      "width": 476,
+      "height": 453,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

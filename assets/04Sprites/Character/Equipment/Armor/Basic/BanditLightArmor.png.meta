@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dcffc433-7b10-4dc1-be03-f7f04ae203ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BanditLightArmor": {
+      "ver": "1.0.3",
+      "uuid": "c163e888-ca93-4284-b51f-0538bba42abf",
+      "rawTextureUuid": "dcffc433-7b10-4dc1-be03-f7f04ae203ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 12.5,
+      "offsetY": -11,
+      "trimX": 73,
+      "trimY": 50,
+      "width": 391,
+      "height": 434,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

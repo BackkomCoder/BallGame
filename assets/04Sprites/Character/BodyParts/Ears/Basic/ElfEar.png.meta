@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ff17cbe1-401f-40a2-87f7-1cbd0251cf21",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ElfEar": {
+      "ver": "1.0.3",
+      "uuid": "56652af5-3946-4faa-8078-946d54b8d210",
+      "rawTextureUuid": "ff17cbe1-401f-40a2-87f7-1cbd0251cf21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -56,
+      "offsetY": 42,
+      "trimX": 54,
+      "trimY": 59,
+      "width": 36,
+      "height": 54,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

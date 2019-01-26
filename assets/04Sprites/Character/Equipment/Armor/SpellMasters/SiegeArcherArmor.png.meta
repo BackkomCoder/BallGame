@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "526af910-e1af-4b28-828d-e194afac683b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SiegeArcherArmor": {
+      "ver": "1.0.3",
+      "uuid": "38cbb87b-bbef-4fd5-a7d2-73f72225c6a4",
+      "rawTextureUuid": "526af910-e1af-4b28-828d-e194afac683b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13.5,
+      "offsetY": -11,
+      "trimX": 73,
+      "trimY": 50,
+      "width": 393,
+      "height": 434,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

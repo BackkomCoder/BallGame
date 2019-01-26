@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ba238b36-10f2-4a1e-93aa-5f142349e7f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BatmanCloak": {
+      "ver": "1.0.3",
+      "uuid": "4a4a7054-cf2a-4519-9e1f-8fb6e4684bf8",
+      "rawTextureUuid": "ba238b36-10f2-4a1e-93aa-5f142349e7f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 1,
+      "trimX": 42,
+      "trimY": 56,
+      "width": 160,
+      "height": 142,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

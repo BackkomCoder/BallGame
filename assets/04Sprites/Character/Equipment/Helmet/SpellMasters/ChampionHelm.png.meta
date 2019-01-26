@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2c7182a1-a9cd-408a-9383-67a81916da48",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ChampionHelm": {
+      "ver": "1.0.3",
+      "uuid": "ed6a4fbc-0336-442a-b8db-d67bbfcdbf2a",
+      "rawTextureUuid": "2c7182a1-a9cd-408a-9383-67a81916da48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 86,
+      "trimX": 178,
+      "trimY": 93,
+      "width": 161,
+      "height": 154,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

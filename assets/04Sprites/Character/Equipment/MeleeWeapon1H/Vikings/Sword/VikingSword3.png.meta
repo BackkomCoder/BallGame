@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5542a27a-45f3-4160-ae63-e72dbcc2a053",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingSword3": {
+      "ver": "1.0.3",
+      "uuid": "c02d64fc-ac3c-487a-b0a9-b24b047ecd7f",
+      "rawTextureUuid": "5542a27a-45f3-4160-ae63-e72dbcc2a053",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 63.5,
+      "trimX": 229,
+      "trimY": 103,
+      "width": 54,
+      "height": 179,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e06ead9d-1a55-4082-8506-07c3f814c984",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Afro": {
+      "ver": "1.0.3",
+      "uuid": "6ddeb627-cd95-4923-8f17-c6deb6f8857e",
+      "rawTextureUuid": "e06ead9d-1a55-4082-8506-07c3f814c984",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 82.5,
+      "trimX": 192,
+      "trimY": 122,
+      "width": 135,
+      "height": 103,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

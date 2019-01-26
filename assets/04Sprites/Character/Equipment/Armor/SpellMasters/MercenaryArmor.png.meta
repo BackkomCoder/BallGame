@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3cc3d14d-0b2b-44ff-b22d-735c88bb96d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MercenaryArmor": {
+      "ver": "1.0.3",
+      "uuid": "6b65f315-36ff-40ae-84b2-ad1485afbe32",
+      "rawTextureUuid": "3cc3d14d-0b2b-44ff-b22d-735c88bb96d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": -9,
+      "trimX": 46,
+      "trimY": 46,
+      "width": 427,
+      "height": 438,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cc46a7a9-a176-4cfa-bdac-6d4c32eff00a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SamuraiSword2": {
+      "ver": "1.0.3",
+      "uuid": "bd37a49d-fbd3-4643-927f-97da8415102b",
+      "rawTextureUuid": "cc46a7a9-a176-4cfa-bdac-6d4c32eff00a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8.5,
+      "offsetY": 84.5,
+      "trimX": 210,
+      "trimY": 38,
+      "width": 75,
+      "height": 267,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

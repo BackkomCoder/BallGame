@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8fe67457-be81-4ed2-9d56-38898f005d56",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BishopWand": {
+      "ver": "1.0.3",
+      "uuid": "e62822d3-2b95-46b2-b2ae-68a2907bd155",
+      "rawTextureUuid": "8fe67457-be81-4ed2-9d56-38898f005d56",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 50.5,
+      "trimX": 218,
+      "trimY": 90,
+      "width": 78,
+      "height": 231,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

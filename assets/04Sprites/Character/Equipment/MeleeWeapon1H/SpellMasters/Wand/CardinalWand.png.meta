@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "56e2d24c-4a04-4f4f-99fb-39defa65847a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CardinalWand": {
+      "ver": "1.0.3",
+      "uuid": "aff89418-8af4-4c11-a4e1-5abbd612fd34",
+      "rawTextureUuid": "56e2d24c-4a04-4f4f-99fb-39defa65847a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 36.5,
+      "trimX": 223,
+      "trimY": 122,
+      "width": 67,
+      "height": 195,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

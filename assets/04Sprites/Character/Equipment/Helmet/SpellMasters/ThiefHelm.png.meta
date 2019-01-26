@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3e9ef8f3-5132-4ea0-a5c2-a429e3114ebe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ThiefHelm": {
+      "ver": "1.0.3",
+      "uuid": "e7509957-559c-4568-b97c-0c996db3071d",
+      "rawTextureUuid": "3e9ef8f3-5132-4ea0-a5c2-a429e3114ebe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 65.5,
+      "trimX": 168,
+      "trimY": 110,
+      "width": 173,
+      "height": 161,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

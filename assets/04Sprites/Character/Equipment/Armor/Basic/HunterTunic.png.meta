@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "33979765-961f-4e14-9a1f-962568d9d705",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "HunterTunic": {
+      "ver": "1.0.3",
+      "uuid": "a6d99459-bb0d-4147-987b-6f522d625f4f",
+      "rawTextureUuid": "33979765-961f-4e14-9a1f-962568d9d705",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -12,
+      "trimX": 45,
+      "trimY": 52,
+      "width": 419,
+      "height": 432,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

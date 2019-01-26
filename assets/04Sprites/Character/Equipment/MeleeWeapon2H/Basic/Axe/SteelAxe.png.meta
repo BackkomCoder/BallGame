@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bcecd292-f0c2-4d8d-9848-118e289c5ed0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SteelAxe": {
+      "ver": "1.0.3",
+      "uuid": "8199796f-7e89-4cd8-9536-32f729f6e011",
+      "rawTextureUuid": "bcecd292-f0c2-4d8d-9848-118e289c5ed0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 50.5,
+      "trimX": 188,
+      "trimY": 99,
+      "width": 135,
+      "height": 213,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

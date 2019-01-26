@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fa07291d-8e2e-4067-a693-6608c00c6c5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "GladiatorHelm": {
+      "ver": "1.0.3",
+      "uuid": "7e0277fc-b046-459b-bec4-1d87fe02abb6",
+      "rawTextureUuid": "fa07291d-8e2e-4067-a693-6608c00c6c5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

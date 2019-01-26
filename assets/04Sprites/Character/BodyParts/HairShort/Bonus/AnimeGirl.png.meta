@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "df0dde88-f2ae-45dc-94ea-076e6f8a23fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "AnimeGirl": {
+      "ver": "1.0.3",
+      "uuid": "7b642dbe-9414-4525-a36c-d0cda425765d",
+      "rawTextureUuid": "df0dde88-f2ae-45dc-94ea-076e6f8a23fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 57,
+      "trimX": 152,
+      "trimY": 120,
+      "width": 192,
+      "height": 158,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

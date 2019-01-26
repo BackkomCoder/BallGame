@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8c2ea6d0-988a-4018-9027-a544c3b66571",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MercenarySword2": {
+      "ver": "1.0.3",
+      "uuid": "e0c4f719-665f-49fd-8045-be45a32b9785",
+      "rawTextureUuid": "8c2ea6d0-988a-4018-9027-a544c3b66571",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 95.5,
+      "trimX": 216,
+      "trimY": 41,
+      "width": 80,
+      "height": 239,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

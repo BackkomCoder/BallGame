@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0b19758d-a707-46bc-bd61-0d75093d94ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SamuraiHelm2": {
+      "ver": "1.0.3",
+      "uuid": "16b27034-f5f3-45eb-91d1-47bfc4689677",
+      "rawTextureUuid": "0b19758d-a707-46bc-bd61-0d75093d94ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 126.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 259,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

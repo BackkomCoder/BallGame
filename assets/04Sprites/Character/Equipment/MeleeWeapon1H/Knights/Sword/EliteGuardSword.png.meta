@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eee95144-aa8e-4635-92da-3990ec56a314",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "EliteGuardSword": {
+      "ver": "1.0.3",
+      "uuid": "02ee9c3a-f0d9-4d63-9ed3-e497c2633ae7",
+      "rawTextureUuid": "eee95144-aa8e-4635-92da-3990ec56a314",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 65,
+      "trimX": 223,
+      "trimY": 93,
+      "width": 66,
+      "height": 196,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

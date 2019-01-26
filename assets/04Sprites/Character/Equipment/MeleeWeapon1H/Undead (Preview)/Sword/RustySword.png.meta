@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3047a25a-8b49-4feb-9a39-b9f2dcb0c354",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "RustySword": {
+      "ver": "1.0.3",
+      "uuid": "70bfc226-6fa0-4b48-8a25-326eddd91736",
+      "rawTextureUuid": "3047a25a-8b49-4feb-9a39-b9f2dcb0c354",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 63.5,
+      "trimX": 226,
+      "trimY": 96,
+      "width": 61,
+      "height": 193,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

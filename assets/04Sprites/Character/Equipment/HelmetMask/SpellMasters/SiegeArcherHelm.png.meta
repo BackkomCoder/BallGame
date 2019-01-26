@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "093395dc-6cf6-4e21-924e-ebfee8d1f049",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SiegeArcherHelm": {
+      "ver": "1.0.3",
+      "uuid": "95c2a7f0-3496-4916-b8c4-ccef59ebd5d7",
+      "rawTextureUuid": "093395dc-6cf6-4e21-924e-ebfee8d1f049",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 123.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 265,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "02e7306b-ca1d-480d-be6c-6b49f88ef42c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "LongHair": {
+      "ver": "1.0.3",
+      "uuid": "fb838932-714d-43d1-b19c-aff5a313cd17",
+      "rawTextureUuid": "02e7306b-ca1d-480d-be6c-6b49f88ef42c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 80,
+      "trimX": 187,
+      "trimY": 121,
+      "width": 141,
+      "height": 110,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

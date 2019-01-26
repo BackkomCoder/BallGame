@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1a76b77e-d420-43c4-a17d-e8ee8179e31a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "GuardHelm3": {
+      "ver": "1.0.3",
+      "uuid": "9532b09c-acb6-4dde-ac92-d96031495295",
+      "rawTextureUuid": "1a76b77e-d420-43c4-a17d-e8ee8179e31a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 62.5,
+      "trimX": 176,
+      "trimY": 115,
+      "width": 162,
+      "height": 157,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "53c4bfae-0079-4ee3-93f4-389abbb582d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ShortHair": {
+      "ver": "1.0.3",
+      "uuid": "8b5607ca-9485-4b06-9675-a8308919e812",
+      "rawTextureUuid": "53c4bfae-0079-4ee3-93f4-389abbb582d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 91,
+      "trimX": 192,
+      "trimY": 122,
+      "width": 133,
+      "height": 86,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

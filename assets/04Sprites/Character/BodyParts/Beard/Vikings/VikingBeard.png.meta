@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bf59b9de-1759-493f-90d1-ecaef6416e0c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingBeard": {
+      "ver": "1.0.3",
+      "uuid": "5dc13af7-0f6b-4cf4-91fb-69c75a221957",
+      "rawTextureUuid": "bf59b9de-1759-493f-90d1-ecaef6416e0c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": 25,
+      "trimX": 79,
+      "trimY": 52,
+      "width": 113,
+      "height": 102,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

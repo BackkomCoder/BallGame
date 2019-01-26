@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c9550af3-7df8-4e2d-bd1c-d86e4451f8ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "EliteKnightHelm": {
+      "ver": "1.0.3",
+      "uuid": "7f45fec5-649c-404d-9c09-0e9251fd18aa",
+      "rawTextureUuid": "c9550af3-7df8-4e2d-bd1c-d86e4451f8ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 65.5,
+      "trimX": 180,
+      "trimY": 108,
+      "width": 157,
+      "height": 165,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

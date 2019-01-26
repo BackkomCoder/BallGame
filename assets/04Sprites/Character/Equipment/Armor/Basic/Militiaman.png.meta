@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6fa8548f-8903-4f14-8697-d0f3287cd517",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Militiaman": {
+      "ver": "1.0.3",
+      "uuid": "90a083d5-f74e-420b-8d2b-b3f163bfbdc0",
+      "rawTextureUuid": "6fa8548f-8903-4f14-8697-d0f3287cd517",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -12,
+      "trimX": 46,
+      "trimY": 52,
+      "width": 420,
+      "height": 432,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

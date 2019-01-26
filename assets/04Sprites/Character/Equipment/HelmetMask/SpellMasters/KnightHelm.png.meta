@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "00c9e0ca-3d85-4479-9c76-653d2175cfa4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "KnightHelm": {
+      "ver": "1.0.3",
+      "uuid": "2992797c-eb54-4d98-b531-f6ec0c81c139",
+      "rawTextureUuid": "00c9e0ca-3d85-4479-9c76-653d2175cfa4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

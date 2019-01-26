@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ca50571f-7b19-458e-9a35-3a5afa7d9a27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "LeatherCap": {
+      "ver": "1.0.3",
+      "uuid": "b93e2807-b014-4bff-943a-108781b30165",
+      "rawTextureUuid": "ca50571f-7b19-458e-9a35-3a5afa7d9a27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 144,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 224,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

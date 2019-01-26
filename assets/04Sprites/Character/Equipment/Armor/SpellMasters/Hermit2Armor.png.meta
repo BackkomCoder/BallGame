@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "76c9e3a4-f171-4c56-b166-4bcc81afc39c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Hermit2Armor": {
+      "ver": "1.0.3",
+      "uuid": "d71760c9-088c-4fa7-aa54-0c731832b28f",
+      "rawTextureUuid": "76c9e3a4-f171-4c56-b166-4bcc81afc39c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -9,
+      "trimX": 36,
+      "trimY": 46,
+      "width": 439,
+      "height": 438,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b1bbabd6-436a-42cb-a5f2-7caac09cf631",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SamuraiBow2": {
+      "ver": "1.0.3",
+      "uuid": "4168d0ff-459e-4d04-ab1c-2b120ff0f848",
+      "rawTextureUuid": "b1bbabd6-436a-42cb-a5f2-7caac09cf631",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -31.5,
+      "trimX": 109,
+      "trimY": 137,
+      "width": 284,
+      "height": 301,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

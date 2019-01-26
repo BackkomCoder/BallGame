@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9d1a6334-605d-4a0f-946f-7ea8decab701",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MarauderBow": {
+      "ver": "1.0.3",
+      "uuid": "9f957c8d-87fe-409a-ae7f-ae0c433f3858",
+      "rawTextureUuid": "9d1a6334-605d-4a0f-946f-7ea8decab701",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5.5,
+      "offsetY": -35,
+      "trimX": 117,
+      "trimY": 136,
+      "width": 289,
+      "height": 310,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

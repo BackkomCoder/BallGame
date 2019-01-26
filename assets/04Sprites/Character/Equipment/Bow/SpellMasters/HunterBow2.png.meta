@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "82d89e5b-31fd-4db9-9438-c2ff8ae88fe2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "HunterBow2": {
+      "ver": "1.0.3",
+      "uuid": "9baea766-a7f0-4ae0-972a-7b6d41db615d",
+      "rawTextureUuid": "82d89e5b-31fd-4db9-9438-c2ff8ae88fe2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -23.5,
+      "trimX": 109,
+      "trimY": 121,
+      "width": 286,
+      "height": 317,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

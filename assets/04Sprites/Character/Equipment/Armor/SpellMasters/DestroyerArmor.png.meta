@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bce1882f-038c-468f-a595-6c343481ff37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DestroyerArmor": {
+      "ver": "1.0.3",
+      "uuid": "2ef3c025-6690-4bf7-8fce-004cb13743e2",
+      "rawTextureUuid": "bce1882f-038c-468f-a595-6c343481ff37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -9.5,
+      "trimX": 46,
+      "trimY": 47,
+      "width": 421,
+      "height": 437,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5ec62e81-c593-40c0-84d5-59b7dcb64f9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "KnightSword": {
+      "ver": "1.0.3",
+      "uuid": "d32c57d9-c106-4edf-90e5-608fa7b9c4fe",
+      "rawTextureUuid": "5ec62e81-c593-40c0-84d5-59b7dcb64f9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 65,
+      "trimX": 226,
+      "trimY": 95,
+      "width": 60,
+      "height": 192,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

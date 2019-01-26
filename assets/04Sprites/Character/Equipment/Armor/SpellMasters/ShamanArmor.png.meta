@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "95d2104f-78c8-4b36-9a97-f477c861a14a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ShamanArmor": {
+      "ver": "1.0.3",
+      "uuid": "545fa3bc-046f-4e06-b0c6-31ac59790a5a",
+      "rawTextureUuid": "95d2104f-78c8-4b36-9a97-f477c861a14a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": -8,
+      "trimX": 73,
+      "trimY": 49,
+      "width": 399,
+      "height": 430,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

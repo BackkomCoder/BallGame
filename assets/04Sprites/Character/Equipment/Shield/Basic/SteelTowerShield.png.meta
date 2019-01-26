@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "24b54a12-a73b-479a-8d84-14cc3cb546c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SteelTowerShield": {
+      "ver": "1.0.3",
+      "uuid": "104b79a0-9528-40e5-bb2b-ef3fa4b8d1d4",
+      "rawTextureUuid": "24b54a12-a73b-479a-8d84-14cc3cb546c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -3,
+      "trimX": 85,
+      "trimY": 81,
+      "width": 78,
+      "height": 100,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

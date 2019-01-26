@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2f55e240-5e92-47a4-8173-370dde3a708c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "HalberdierHelm": {
+      "ver": "1.0.3",
+      "uuid": "dd0df2fc-8d9e-48d9-8a67-7803e0fc6c59",
+      "rawTextureUuid": "2f55e240-5e92-47a4-8173-370dde3a708c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 146.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 219,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

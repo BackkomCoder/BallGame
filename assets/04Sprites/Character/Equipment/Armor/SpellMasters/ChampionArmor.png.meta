@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8194ae20-ab76-4a4e-8f85-6bc810b19fa9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ChampionArmor": {
+      "ver": "1.0.3",
+      "uuid": "111f8988-9c8b-40a7-817f-04a3a6aa641e",
+      "rawTextureUuid": "8194ae20-ab76-4a4e-8f85-6bc810b19fa9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 17.5,
+      "offsetY": -3.5,
+      "trimX": 73,
+      "trimY": 40,
+      "width": 401,
+      "height": 439,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4733fecf-566b-482a-bef4-557e1f4863a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MilitiamanHelmet2": {
+      "ver": "1.0.3",
+      "uuid": "4f72e3a2-1fdf-45e2-8517-937ca7f4a573",
+      "rawTextureUuid": "4733fecf-566b-482a-bef4-557e1f4863a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 68,
+      "trimX": 176,
+      "trimY": 115,
+      "width": 165,
+      "height": 146,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

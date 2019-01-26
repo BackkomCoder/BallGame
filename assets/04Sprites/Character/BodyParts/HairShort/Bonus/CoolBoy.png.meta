@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ccf51351-9fdb-4ec9-a358-347bd6b98157",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CoolBoy": {
+      "ver": "1.0.3",
+      "uuid": "dfe24225-19e4-41cb-bd58-144506ae0ea1",
+      "rawTextureUuid": "ccf51351-9fdb-4ec9-a358-347bd6b98157",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14,
+      "offsetY": 79,
+      "trimX": 189,
+      "trimY": 122,
+      "width": 162,
+      "height": 110,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

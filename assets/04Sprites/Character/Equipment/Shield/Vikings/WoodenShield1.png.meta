@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2177f7ba-2c3c-4620-a297-0ce6a60f1612",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodenShield1": {
+      "ver": "1.0.3",
+      "uuid": "d0cdded8-8c68-4507-bd13-4f9184b4f575",
+      "rawTextureUuid": "2177f7ba-2c3c-4620-a297-0ce6a60f1612",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 0.5,
+      "trimX": 79,
+      "trimY": 76,
+      "width": 92,
+      "height": 103,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

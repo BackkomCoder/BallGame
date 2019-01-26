@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fd1f3c2e-fdcc-4cde-a371-20e552684c7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodenMace": {
+      "ver": "1.0.3",
+      "uuid": "869c1b45-4be2-4d15-8c8d-81f6f8173640",
+      "rawTextureUuid": "fd1f3c2e-fdcc-4cde-a371-20e552684c7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 51,
+      "trimX": 211,
+      "trimY": 118,
+      "width": 89,
+      "height": 174,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

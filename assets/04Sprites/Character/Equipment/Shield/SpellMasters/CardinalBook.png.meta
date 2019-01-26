@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "74144d90-10a9-4d43-8e52-dc52098c80fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CardinalBook": {
+      "ver": "1.0.3",
+      "uuid": "74d613ac-be93-488f-90ac-ef2e575e687f",
+      "rawTextureUuid": "74144d90-10a9-4d43-8e52-dc52098c80fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -21,
+      "offsetY": 8,
+      "trimX": 60,
+      "trimY": 68,
+      "width": 94,
+      "height": 104,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "11ab7c02-f877-406e-aff2-b9afa63579a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "IronShield2": {
+      "ver": "1.0.3",
+      "uuid": "1926fe29-0d0f-4c22-a9a6-20480fa0df17",
+      "rawTextureUuid": "11ab7c02-f877-406e-aff2-b9afa63579a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 0.5,
+      "trimX": 79,
+      "trimY": 75,
+      "width": 91,
+      "height": 105,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

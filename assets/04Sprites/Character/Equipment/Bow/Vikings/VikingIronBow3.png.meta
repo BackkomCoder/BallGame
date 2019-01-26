@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ba95cb0d-a0c5-49f5-a28b-03714bc8adf7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingIronBow3": {
+      "ver": "1.0.3",
+      "uuid": "6727fb51-5b0c-4e62-a191-b2c61aadfb42",
+      "rawTextureUuid": "ba95cb0d-a0c5-49f5-a28b-03714bc8adf7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -32,
+      "trimX": 109,
+      "trimY": 138,
+      "width": 286,
+      "height": 300,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

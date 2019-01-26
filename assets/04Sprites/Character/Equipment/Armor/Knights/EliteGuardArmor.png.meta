@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9cf6d2f6-49f7-4fb9-9282-4b98e413ae00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "EliteGuardArmor": {
+      "ver": "1.0.3",
+      "uuid": "2b076c4d-6fd9-4511-af0e-da882c87f39b",
+      "rawTextureUuid": "9cf6d2f6-49f7-4fb9-9282-4b98e413ae00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -9.5,
+      "trimX": 46,
+      "trimY": 47,
+      "width": 424,
+      "height": 437,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

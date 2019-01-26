@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4c417189-4747-4387-b494-e1ec69411259",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingAxe1": {
+      "ver": "1.0.3",
+      "uuid": "7242653d-1fc9-46ed-97d7-8023a533bdf4",
+      "rawTextureUuid": "4c417189-4747-4387-b494-e1ec69411259",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 55,
+      "trimX": 175,
+      "trimY": 87,
+      "width": 163,
+      "height": 228,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "425d3a92-be39-4cd4-9203-fbf5f6af6986",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "PeasantClothing": {
+      "ver": "1.0.3",
+      "uuid": "6c89e741-3d86-4b05-a8e3-3f69932a180e",
+      "rawTextureUuid": "425d3a92-be39-4cd4-9203-fbf5f6af6986",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -12,
+      "trimX": 45,
+      "trimY": 52,
+      "width": 419,
+      "height": 432,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

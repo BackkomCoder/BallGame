@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2d08ba63-2e76-4d45-9bbf-fe5cae9ce909",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MaleEyebrowns2": {
+      "ver": "1.0.3",
+      "uuid": "65971009-3900-4c1d-a223-6e81416a4940",
+      "rawTextureUuid": "2d08ba63-2e76-4d45-9bbf-fe5cae9ce909",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 20,
+      "offsetY": 47.5,
+      "trimX": 109,
+      "trimY": 69,
+      "width": 78,
+      "height": 23,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

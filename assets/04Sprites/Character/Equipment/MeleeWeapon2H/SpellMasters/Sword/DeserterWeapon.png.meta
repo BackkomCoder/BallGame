@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c2533ffd-801f-415e-958a-6791f81d8552",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DeserterWeapon": {
+      "ver": "1.0.3",
+      "uuid": "12f9a8db-86c1-4c4e-aa09-4c958e640691",
+      "rawTextureUuid": "c2533ffd-801f-415e-958a-6791f81d8552",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 64.5,
+      "trimX": 247,
+      "trimY": 71,
+      "width": 17,
+      "height": 241,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

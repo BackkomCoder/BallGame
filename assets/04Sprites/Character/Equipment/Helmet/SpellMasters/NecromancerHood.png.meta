@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b5ae8c13-fed9-4fd8-8e34-6b744bef9150",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "NecromancerHood": {
+      "ver": "1.0.3",
+      "uuid": "ce98cac4-b399-4235-ab95-ce9e4df741c5",
+      "rawTextureUuid": "b5ae8c13-fed9-4fd8-8e34-6b744bef9150",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 65.5,
+      "trimX": 168,
+      "trimY": 110,
+      "width": 173,
+      "height": 161,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

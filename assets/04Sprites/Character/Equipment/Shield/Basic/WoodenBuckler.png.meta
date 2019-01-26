@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6d6bd59d-6154-41fa-a5d4-92dc67cb0771",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodenBuckler": {
+      "ver": "1.0.3",
+      "uuid": "0ed1504c-ad41-4037-9b62-51d6ba9f5a51",
+      "rawTextureUuid": "6d6bd59d-6154-41fa-a5d4-92dc67cb0771",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -1,
+      "trimX": 87,
+      "trimY": 81,
+      "width": 74,
+      "height": 96,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

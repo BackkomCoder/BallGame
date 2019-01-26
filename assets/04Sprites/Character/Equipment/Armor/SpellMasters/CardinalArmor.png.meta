@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a72b089b-201c-4524-bf46-1e3ef799b1ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CardinalArmor": {
+      "ver": "1.0.3",
+      "uuid": "bc5f2a47-9ae3-4ccb-928a-bff16f1f0867",
+      "rawTextureUuid": "a72b089b-201c-4524-bf46-1e3ef799b1ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 17,
+      "offsetY": -11.5,
+      "trimX": 73,
+      "trimY": 51,
+      "width": 400,
+      "height": 433,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7180ef65-1718-4109-938f-49a0fa3af779",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodenSpikedClub": {
+      "ver": "1.0.3",
+      "uuid": "d02765f1-32ea-4fa3-99de-ecb3135d9c39",
+      "rawTextureUuid": "7180ef65-1718-4109-938f-49a0fa3af779",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 64.5,
+      "trimX": 219,
+      "trimY": 97,
+      "width": 67,
+      "height": 189,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

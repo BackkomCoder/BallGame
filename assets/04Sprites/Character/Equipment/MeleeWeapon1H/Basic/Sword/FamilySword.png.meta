@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5d2b3b7b-5201-4e9c-b077-3f9d94fce4d7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FamilySword": {
+      "ver": "1.0.3",
+      "uuid": "1f9154a7-799a-4c42-ad47-2a7d2373cab6",
+      "rawTextureUuid": "5d2b3b7b-5201-4e9c-b077-3f9d94fce4d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 63.5,
+      "trimX": 226,
+      "trimY": 96,
+      "width": 61,
+      "height": 193,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2be73f36-9c60-4f79-a4cf-ed275210267b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ScoutHelm": {
+      "ver": "1.0.3",
+      "uuid": "da456015-e3cf-4f2a-8a19-b4d762245f66",
+      "rawTextureUuid": "2be73f36-9c60-4f79-a4cf-ed275210267b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 66.5,
+      "trimX": 179,
+      "trimY": 106,
+      "width": 160,
+      "height": 167,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

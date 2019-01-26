@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f2771dbb-86d6-4b87-a9ef-94eca9a4a74b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "InLove": {
+      "ver": "1.0.3",
+      "uuid": "345c9420-8e07-4997-be0a-e076d4e63343",
+      "rawTextureUuid": "f2771dbb-86d6-4b87-a9ef-94eca9a4a74b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18,
+      "offsetY": 4.5,
+      "trimX": 127,
+      "trimY": 112,
+      "width": 38,
+      "height": 23,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

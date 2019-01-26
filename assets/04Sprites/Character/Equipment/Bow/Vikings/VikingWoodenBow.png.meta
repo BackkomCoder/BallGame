@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "54366cd1-ad9f-4b74-a2d8-dcd0452a1c30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingWoodenBow": {
+      "ver": "1.0.3",
+      "uuid": "52c7cf98-2e28-42b2-8b8f-152d2baba73c",
+      "rawTextureUuid": "54366cd1-ad9f-4b74-a2d8-dcd0452a1c30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 31.5,
+      "trimX": 117,
+      "trimY": 11,
+      "width": 277,
+      "height": 427,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9f023cca-7bb5-4ced-8769-771d1cf08e27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WitchHunterArmor": {
+      "ver": "1.0.3",
+      "uuid": "72b749f5-e7e9-44be-b669-5260b58bd4be",
+      "rawTextureUuid": "9f023cca-7bb5-4ced-8769-771d1cf08e27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -9.5,
+      "trimX": 46,
+      "trimY": 47,
+      "width": 428,
+      "height": 437,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

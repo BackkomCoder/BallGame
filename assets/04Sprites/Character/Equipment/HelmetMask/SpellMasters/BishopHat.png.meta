@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8060ee07-466f-41a0-a7f5-017929fd2f03",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BishopHat": {
+      "ver": "1.0.3",
+      "uuid": "fd114f6e-2ddc-464c-9f23-dcc4c6d24736",
+      "rawTextureUuid": "8060ee07-466f-41a0-a7f5-017929fd2f03",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18.5,
+      "offsetY": 173.5,
+      "trimX": 214,
+      "trimY": 0,
+      "width": 121,
+      "height": 165,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

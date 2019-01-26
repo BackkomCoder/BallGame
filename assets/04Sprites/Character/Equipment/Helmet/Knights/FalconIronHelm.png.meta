@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "32e592ea-28d7-4556-8f58-1237ad665ac0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FalconIronHelm": {
+      "ver": "1.0.3",
+      "uuid": "0006d501-3f89-44b6-bc59-a5a3f68cddee",
+      "rawTextureUuid": "32e592ea-28d7-4556-8f58-1237ad665ac0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12.5,
+      "offsetY": 72.5,
+      "trimX": 155,
+      "trimY": 104,
+      "width": 177,
+      "height": 159,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

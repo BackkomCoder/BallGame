@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "72d206b4-ee42-4a4e-acfb-b5734b5b17a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodcutterPoleaxe": {
+      "ver": "1.0.3",
+      "uuid": "d3dac251-d015-4340-a8af-d05eb419ebb6",
+      "rawTextureUuid": "72d206b4-ee42-4a4e-acfb-b5734b5b17a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 80.5,
+      "trimX": 189,
+      "trimY": 52,
+      "width": 130,
+      "height": 247,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

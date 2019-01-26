@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f9bfebab-eb7a-4dc3-8e51-0a449b9e2a94",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ClericWand2": {
+      "ver": "1.0.3",
+      "uuid": "9c561991-365e-4768-b678-33f87e6a1542",
+      "rawTextureUuid": "f9bfebab-eb7a-4dc3-8e51-0a449b9e2a94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10,
+      "offsetY": 44.5,
+      "trimX": 223,
+      "trimY": 102,
+      "width": 86,
+      "height": 219,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

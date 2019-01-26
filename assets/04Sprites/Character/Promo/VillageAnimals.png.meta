@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d3e3d2f9-fdfb-4024-a743-d4988ca57677",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VillageAnimals": {
+      "ver": "1.0.3",
+      "uuid": "5215d596-b6d5-4e11-9037-720893562081",
+      "rawTextureUuid": "d3e3d2f9-fdfb-4024-a743-d4988ca57677",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

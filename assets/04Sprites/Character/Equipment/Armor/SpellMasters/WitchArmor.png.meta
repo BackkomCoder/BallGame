@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2b6109bd-a11e-4802-8aee-a83b8b8d11e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WitchArmor": {
+      "ver": "1.0.3",
+      "uuid": "73c101bb-1d3a-421a-8001-063dc3950375",
+      "rawTextureUuid": "2b6109bd-a11e-4802-8aee-a83b8b8d11e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14,
+      "offsetY": -10,
+      "trimX": 74,
+      "trimY": 52,
+      "width": 392,
+      "height": 428,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

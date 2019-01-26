@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1cf4d536-e068-4e36-a056-6f8206163b03",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "MarauderArmor": {
+      "ver": "1.0.3",
+      "uuid": "405c4e6a-d6b1-4168-970e-3df55aa5a070",
+      "rawTextureUuid": "1cf4d536-e068-4e36-a056-6f8206163b03",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -12,
+      "trimX": 46,
+      "trimY": 52,
+      "width": 425,
+      "height": 432,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

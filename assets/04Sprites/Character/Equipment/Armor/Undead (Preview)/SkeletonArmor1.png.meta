@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "efeb1dc2-1b58-4723-a658-f6607711f1b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SkeletonArmor1": {
+      "ver": "1.0.3",
+      "uuid": "f50bfa54-633d-41a2-950e-093f8ab8b1db",
+      "rawTextureUuid": "efeb1dc2-1b58-4723-a658-f6607711f1b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -4,
+      "trimX": 46,
+      "trimY": 41,
+      "width": 417,
+      "height": 438,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

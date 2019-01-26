@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9b43214b-9386-483b-a8e5-a1847fc48176",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "RoyalArcherBow": {
+      "ver": "1.0.3",
+      "uuid": "11f3fb93-37c5-4d2f-9663-5a3b7c6d9ec2",
+      "rawTextureUuid": "9b43214b-9386-483b-a8e5-a1847fc48176",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 31.5,
+      "trimX": 116,
+      "trimY": 11,
+      "width": 278,
+      "height": 427,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

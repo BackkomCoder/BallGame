@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "87c8fe8c-ddb4-4862-8ac0-645cc0b851f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WarriorHelm": {
+      "ver": "1.0.3",
+      "uuid": "a8bdd321-31cb-4d5a-8918-3140bf64f8d1",
+      "rawTextureUuid": "87c8fe8c-ddb4-4862-8ac0-645cc0b851f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 70,
+      "trimX": 181,
+      "trimY": 111,
+      "width": 155,
+      "height": 150,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

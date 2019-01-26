@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f16ae673-3793-449c-86d1-e646f54be02a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CrusaderHelm": {
+      "ver": "1.0.3",
+      "uuid": "3d21ed15-dada-4e32-8ff1-b93f1691360a",
+      "rawTextureUuid": "f16ae673-3793-449c-86d1-e646f54be02a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 68.5,
+      "trimX": 174,
+      "trimY": 115,
+      "width": 163,
+      "height": 145,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

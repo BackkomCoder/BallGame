@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b1062789-33da-40a1-8097-61da618f2e9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "GuardArmor2": {
+      "ver": "1.0.3",
+      "uuid": "7d4c5fc3-6bd3-475d-8c4e-f9175ffc6121",
+      "rawTextureUuid": "b1062789-33da-40a1-8097-61da618f2e9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -10.5,
+      "trimX": 46,
+      "trimY": 49,
+      "width": 425,
+      "height": 435,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

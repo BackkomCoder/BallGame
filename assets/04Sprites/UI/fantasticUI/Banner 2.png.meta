@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cb2cdab0-d864-4927-b3a4-4df84ba8ba8c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Banner 2": {
+      "ver": "1.0.3",
+      "uuid": "823969f3-21dc-44a2-a1e0-d08f0e7aac72",
+      "rawTextureUuid": "cb2cdab0-d864-4927-b3a4-4df84ba8ba8c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 192,
+      "height": 175,
+      "rawWidth": 192,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

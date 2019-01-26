@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "88366b6b-cd27-4da8-bc47-94713391c5e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "StormBringerArmor": {
+      "ver": "1.0.3",
+      "uuid": "57c92830-b352-4c7e-9dbb-39bd566121cf",
+      "rawTextureUuid": "88366b6b-cd27-4da8-bc47-94713391c5e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 22,
+      "offsetY": -8,
+      "trimX": 74,
+      "trimY": 44,
+      "width": 408,
+      "height": 440,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

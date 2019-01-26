@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fc6023ce-be87-4fa7-b198-4f7f1ecb0ddf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "LeatherJacket": {
+      "ver": "1.0.3",
+      "uuid": "c55184e4-c0f6-467c-8a59-a4f737fc06d1",
+      "rawTextureUuid": "fc6023ce-be87-4fa7-b198-4f7f1ecb0ddf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 12.5,
+      "offsetY": -9.5,
+      "trimX": 73,
+      "trimY": 52,
+      "width": 391,
+      "height": 427,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b3afd731-7a76-45d0-8ec8-fe37e29bb0c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "IronArmor": {
+      "ver": "1.0.3",
+      "uuid": "80358b99-f107-45c8-9238-cf942f0123d6",
+      "rawTextureUuid": "b3afd731-7a76-45d0-8ec8-fe37e29bb0c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -10,
+      "trimX": 46,
+      "trimY": 48,
+      "width": 425,
+      "height": 436,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

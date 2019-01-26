@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "64089dd8-0916-4da8-8940-36843c672030",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "VikingRoughArmor3": {
+      "ver": "1.0.3",
+      "uuid": "54b2e172-9136-4aff-8f40-315906b70472",
+      "rawTextureUuid": "64089dd8-0916-4da8-8940-36843c672030",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -9.5,
+      "trimX": 46,
+      "trimY": 47,
+      "width": 421,
+      "height": 437,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

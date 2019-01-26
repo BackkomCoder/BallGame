@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d3356328-c7a3-4c2b-8775-6ab884656cd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WaterWizardArmor": {
+      "ver": "1.0.3",
+      "uuid": "0358835c-ba02-4368-ac5c-3e6b7e294119",
+      "rawTextureUuid": "d3356328-c7a3-4c2b-8775-6ab884656cd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18.5,
+      "offsetY": -10.5,
+      "trimX": 73,
+      "trimY": 49,
+      "width": 403,
+      "height": 435,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "61168c2e-a84a-402a-9d89-c7addfa23f04",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FireWarriorArmor": {
+      "ver": "1.0.3",
+      "uuid": "5974df1b-c0bc-4aa3-888d-00d3c5e2734c",
+      "rawTextureUuid": "61168c2e-a84a-402a-9d89-c7addfa23f04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 15,
+      "offsetY": -5,
+      "trimX": 74,
+      "trimY": 43,
+      "width": 394,
+      "height": 436,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8bfa669c-2728-42fc-9501-b3b3fd2c42dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "InquisitorSword": {
+      "ver": "1.0.3",
+      "uuid": "2fac4e2b-c08b-41aa-9da6-6dc269a97c74",
+      "rawTextureUuid": "8bfa669c-2728-42fc-9501-b3b3fd2c42dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 72.5,
+      "trimX": 211,
+      "trimY": 77,
+      "width": 91,
+      "height": 213,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

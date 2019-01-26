@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e8f1719f-d652-41ff-84d9-9fab48d1981a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SniperArmor": {
+      "ver": "1.0.3",
+      "uuid": "ef51b57c-31e5-4f19-928b-2a3ee164c492",
+      "rawTextureUuid": "e8f1719f-d652-41ff-84d9-9fab48d1981a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 12.5,
+      "offsetY": -11,
+      "trimX": 73,
+      "trimY": 50,
+      "width": 391,
+      "height": 434,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

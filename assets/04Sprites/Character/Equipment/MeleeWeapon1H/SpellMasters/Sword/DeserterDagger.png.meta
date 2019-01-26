@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c1ab098f-39a5-405a-8a01-8f8769ecb99c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DeserterDagger": {
+      "ver": "1.0.3",
+      "uuid": "8c5cba22-d4a0-4cd7-b996-b244e4d88b96",
+      "rawTextureUuid": "c1ab098f-39a5-405a-8a01-8f8769ecb99c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 46,
+      "trimX": 239,
+      "trimY": 139,
+      "width": 41,
+      "height": 142,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

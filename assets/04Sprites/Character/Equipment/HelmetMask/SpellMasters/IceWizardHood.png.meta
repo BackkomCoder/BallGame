@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e7219cdb-b978-439a-b3dd-d995edadbc41",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "IceWizardHood": {
+      "ver": "1.0.3",
+      "uuid": "49d72806-14fa-414a-b689-020a0bae0735",
+      "rawTextureUuid": "e7219cdb-b978-439a-b3dd-d995edadbc41",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

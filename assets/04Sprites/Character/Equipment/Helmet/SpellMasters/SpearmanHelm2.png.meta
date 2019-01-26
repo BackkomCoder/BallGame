@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "de643315-8487-4c77-9636-9b33e1c73569",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SpearmanHelm2": {
+      "ver": "1.0.3",
+      "uuid": "43a5c079-18f4-44e3-98d3-b0a142fe8ffa",
+      "rawTextureUuid": "de643315-8487-4c77-9636-9b33e1c73569",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 64.5,
+      "trimX": 177,
+      "trimY": 115,
+      "width": 157,
+      "height": 153,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

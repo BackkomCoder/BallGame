@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "29e1bf79-d3e1-4161-a2ee-09a0a5ae32a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "HalberdierArmor": {
+      "ver": "1.0.3",
+      "uuid": "a08719ee-caad-4399-8bf5-97c855ef6706",
+      "rawTextureUuid": "29e1bf79-d3e1-4161-a2ee-09a0a5ae32a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -11,
+      "trimX": 46,
+      "trimY": 50,
+      "width": 418,
+      "height": 434,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

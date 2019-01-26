@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "43f83cd5-4b91-49f1-8659-9722f51dd8a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FireKnightArmor": {
+      "ver": "1.0.3",
+      "uuid": "7658735c-668a-48d4-bbf6-a34fa605a45c",
+      "rawTextureUuid": "43f83cd5-4b91-49f1-8659-9722f51dd8a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -9.5,
+      "trimX": 46,
+      "trimY": 47,
+      "width": 421,
+      "height": 437,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
