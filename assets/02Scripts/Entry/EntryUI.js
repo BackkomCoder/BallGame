@@ -11,9 +11,9 @@ cc.Class({
     // onLoad () {},
 
     start () {
-        // wx.showShareMenu({
-        //     withShareTicket: true
-        //   })
+        wx.showShareMenu({
+            withShareTicket: true
+          })
     }, 
 
     // update (dt) {
