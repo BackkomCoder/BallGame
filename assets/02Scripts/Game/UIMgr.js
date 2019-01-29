@@ -1,7 +1,4 @@
 var UIMgr = cc.Class({
-    // statics:{
-    //     instance:null
-    // },
     extends: cc.Component,
 
     properties: {
@@ -10,7 +7,9 @@ var UIMgr = cc.Class({
         //再来一局button
         btnAgain:cc.Button, 
     },
-
+    onLoad(){
+        this.allClassQuote=cc.find("/GameMgr/AllClassQuote").getComponent("AllClassQuote");
+    },
     //设置按钮状态
     SetButtonState(state){
         this.btnAgain.node.active=state;
@@ -20,7 +19,8 @@ var UIMgr = cc.Class({
         this.labScore.string="Score:"+score.toString();
     },
 
-    // update (dt) {},
+    //返回entry
+    BackEntryScene(){
+        this.allClassQuote.gameMgr.BackEntryScene();
+    }
 });
-// UIMgr.instance=new UIMgr();
-// module.extends=UIMgr;

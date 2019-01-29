@@ -1,3 +1,4 @@
+var PersistRootNode=require("PersistRootNode");
 cc.Class({
     extends: cc.Component,
 
@@ -40,6 +41,9 @@ cc.Class({
         maxLifeCount: 10,
         //玩家
         player: cc.Node,
+        //游戏背景
+        gameBgSprite:cc.Sprite,
+        test:cc.SpriteFrame,
     },
 
 
@@ -57,13 +61,23 @@ cc.Class({
     },
 
     start() {
+        let _self=this;
+        console.log("--------:"+PersistRootNode.instance.selectedBgSpriteFrameName);
+        cc.loader.loadRes((PersistRootNode.instance.selectedBgSpriteFrameName), cc.SpriteFrame,
+         function (err, spriteFrame) {
+            if (err) {
+                cc.error(err.message || err);
+                return;
+            }
+            _self.gameBgSprite.spriteFrame=spriteFrame;
+            cc.log('Result should be a sprite frame: ' + (spriteFrame instanceof cc.SpriteFrame));
+        });
     },
     update(dt) {
         if (this.bGameOver === true) {
             return;
         }
         this.SpawnEmeny(dt);
-      //  console.log(this.emenyPool.size());
     },
     SpawnEmenyByPool(){
         let emeny=null;
@@ -143,7 +157,13 @@ cc.Class({
     LoadScene() {
         cc.director.resume();
         this.allClassQuote.getWXOpenData.OpenDataContext("HideRankPanel");
-        cc.director.loadScene("Start");
+        cc.director.loadScene("Game"); 
+    },
+
+    //返回entry
+    BackEntryScene(){
+        this.allClassQuote.getWXOpenData.OpenDataContext("HideRankPanel");
+        cc.director.loadScene("Entry");
     },
     //玩家得分
     AddPlayerScore(addScore) {
